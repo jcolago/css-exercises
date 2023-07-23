@@ -48,6 +48,10 @@ a {
   padding: 16px;
 }
 
+.footer {
+  background: #eee;
+}
+
 ul {
   display: flex;
   list-style: none;
